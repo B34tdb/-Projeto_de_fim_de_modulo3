@@ -1,12 +1,14 @@
-# Game of Thrones Database
+<h1 align="center">⚔Game of Thorens Database</h1>
 
-## Projeto de 3° módulo Resilia Educação
+<h4 align="center">Projeto de fim do 3° módulo - Resilia Educação</h4>
 
-## Daniel Rodrigues Duarte -  <br />
-## Elder dos Santos Schmoeller - https://github.com/elderschmoeller <br />
-## Hyan Araujo Almeida de Oliveira - https://github.com/B34tdb <br />
-## Mariana Machado - https://github.com/marimachadox <br />
-## Pedro Henrique Guaycuru Espinola - https://github.com/PedroEspinola <br />
+
+<h3>Equipe : ↓</h3>
+- <a href = ""> Daniel Rodrigues Duarte -  </a>
+- <a href = "https://github.com/elderschmoeller"> Elder dos Santos Schmoeller</a>
+- <a href = "https://github.com/B34tdb"> Hyan Araujo Almeida de Oliveira</a>
+- <a href = "https://github.com/marimachadox"> Mariana Machado</a>
+- <a href = "https://github.com/PedroEspinola"> Pedro Henrique Guaycuru Espinola</a>
 
 
 -----------------
