@@ -10,7 +10,7 @@ FROM
 ORDER BY
     duracao DESC;
 
--- # 6 - Região com mais casas;
+-- # 6 - Região com mais casas
 
 SELECT
     regiao, COUNT(regiao) AS total
