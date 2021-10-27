@@ -1,8 +1,6 @@
 <div align="center"><img align="center" alt="GOT" src="GOT_logo.png"  height="250px" ></div>
 
-
-<div align="center">
-
+##
 # 🐙 Participantes do Projeto 🐙
 
 * ### Elder <a href="https://www.linkedin.com/in/elderschmoeller/" target="_blank"><a href="https://github.com/elderschmoeller" target="_blank"></a>
@@ -14,6 +12,8 @@
 * ### Pedro <a href="https://www.linkedin.com/in/pedro-espinola-3028a821a/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADdOIbIB7P9XYCyRdeHXvLkDPxcD0fjEHzw" target="_blank"></a> <a href="https://github.com/PedroEspinola" target="_blank"></a>
 
 * ### Daniel <a href="https://www.linkedin.com/in/daniel-duarte-29a164204/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADP-DpYBSo90qronVJqgtMfvXkUoccAynbE" target="_blank"></a> <a href="https://www.linkedin.com/in/daniel-duarte-29a164204/" target="_blank"></a>
+
+<div align="center">
   
 # 🐉 Game of Thrones Analytics 🐉 - Módulo 3 Resilia Educação
 
@@ -44,5 +44,3 @@
 ><p>Nosso grupo utilizou o METABASE como ferramenta de criação dos gráficos retirados das querys feitas dentro do mySQL para referenciar o que utilizados no projeto.</p>
 ><p>Abaixo os links de contato dos participantes.</p>
 ></div>
-##
-
