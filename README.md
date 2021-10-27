@@ -5,7 +5,7 @@
 
 * ### Elder <a href="https://www.linkedin.com/in/elderschmoeller/" target="_blank">Linkedin <a href="https://github.com/elderschmoeller" target="_blank">Github</a>
  
-* ### Hyan <a href="https://www.linkedin.com/in/hyan-araujo-55a9891b2/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGfU9YBkH9xEnzZcplv04xG8pGz-Rj4nhI" target="_blank">Linkedin </a> <a href="https://github.com/B34tdb" target="_blank">Github</a>
+* ### hyan <a href="https://www.linkedin.com/in/hyan-araujo-55a9891b2/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGfU9YBkH9xEnzZcplv04xG8pGz-Rj4nhI" target="_blank">Linkedin </a> <a href="https://github.com/B34tdb" target="_blank">Github</a>
  
 * ### Mariana <a href="https://www.linkedin.com/in/marianamachado9/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADW38PcBlE55NUlg53RqhdVwJHztLDMxcy0" target="_blank">Linkedin </a> <a href="https://github.com/marimachadox" target="_blank">Github</a>
  
