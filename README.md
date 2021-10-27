@@ -1,4 +1,4 @@
-<h1 align="center">⚔Game of Thorens Database</h1>
+<h1 align="center">Game of Thorens Database</h1>
 
 <h4 align="center">Projeto de fim do 3° módulo - Resilia Educação</h4>
 
