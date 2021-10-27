@@ -1,4 +1,4 @@
-<div align="center"><img align="center" alt="GOT" src="GOT_logo.png"  height="250px" ></div>
+<div align="center"><img align="center" alt="GOT" src="./img/GOT_logo.png"  height="250px" ></div>
 
 ##
 # 🐙 Participantes do Projeto 🐙
