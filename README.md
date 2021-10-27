@@ -3,15 +3,15 @@
 ##
 # 🐙 Participantes do Projeto 🐙
 
-* ### Elder <a href="https://www.linkedin.com/in/elderschmoeller/" target="_blank"><a href="https://github.com/elderschmoeller" target="_blank"></a>
+* ### <a href="https://www.linkedin.com/in/elderschmoeller/" target="_blank">Elder <a href="https://github.com/elderschmoeller" target="_blank"></a>
  
-* ### Hyan <a href="https://www.linkedin.com/in/hyan-araujo-55a9891b2/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGfU9YBkH9xEnzZcplv04xG8pGz-Rj4nhI" target="_blank"></a> <a href="https://github.com/B34tdb" target="_blank"></a>
+* ### <a href="https://www.linkedin.com/in/hyan-araujo-55a9891b2/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADGfU9YBkH9xEnzZcplv04xG8pGz-Rj4nhI" target="_blank">Hyan </a> <a href="https://github.com/B34tdb" target="_blank"></a>
  
-* ### Mariana <a href="https://www.linkedin.com/in/marianamachado9/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADW38PcBlE55NUlg53RqhdVwJHztLDMxcy0" target="_blank"></a> <a href="https://github.com/marimachadox" target="_blank"></a>
+* ### <a href="https://www.linkedin.com/in/marianamachado9/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADW38PcBlE55NUlg53RqhdVwJHztLDMxcy0" target="_blank">Mariana </a> <a href="https://github.com/marimachadox" target="_blank"></a>
  
-* ### Pedro <a href="https://www.linkedin.com/in/pedro-espinola-3028a821a/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADdOIbIB7P9XYCyRdeHXvLkDPxcD0fjEHzw" target="_blank"></a> <a href="https://github.com/PedroEspinola" target="_blank"></a>
+* ### <a href="https://www.linkedin.com/in/pedro-espinola-3028a821a/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADdOIbIB7P9XYCyRdeHXvLkDPxcD0fjEHzw" target="_blank">Pedro </a> <a href="https://github.com/PedroEspinola" target="_blank"></a>
 
-* ### Daniel <a href="https://www.linkedin.com/in/daniel-duarte-29a164204/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADP-DpYBSo90qronVJqgtMfvXkUoccAynbE" target="_blank"></a> <a href="https://www.linkedin.com/in/daniel-duarte-29a164204/" target="_blank"></a>
+* ### <a href="https://www.linkedin.com/in/daniel-duarte-29a164204/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADP-DpYBSo90qronVJqgtMfvXkUoccAynbE" target="_blank">Daniel </a> <a href="https://www.linkedin.com/in/daniel-duarte-29a164204/" target="_blank"></a>
 
 <div align="center">
   
