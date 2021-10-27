@@ -1,4 +1,4 @@
-<div align="center"><img align="center" alt="GOT" src="GOT_logo.png"  height="250px" ></div>
+<div align="center"><img align="center" alt="GOT" src="./img/GOT_logo.png"  height="250px" ></div>
 
 ##
 # 🐙 Participantes do Projeto 🐙
@@ -27,7 +27,7 @@
   
 > ## 🧾 MYSQL - Database 🧾
 > 
-><img src="estrutura_diagrama.jpg" height="375px" width="395px">
+><img src="./img/estrutura_diagrama.jpg" height="375px" width="395px">
 ><p>Dentro do mySQL, nosso grupo utilizou o que foi ensinado durante o módulo para criar e desenvolver as requisições das querys do nosso projeto, assim, de acordo com o que foi feito no mySQL, passamos direto para o Metabase.</p>
 ></div>
 ##
@@ -38,8 +38,8 @@
 
 > ## 📊 Gráficos realizados no METABASE 📊
 >
-><img src="tabela_metabase_full.png" height="375px" width="395px">
-><img src="tabela_metabase.png" height="375px" width="395px">
+><img src="./img/tabela_metabase_full.png" height="375px" width="395px">
+><img src="./img/tabela_metabase.png" height="375px" width="395px">
 >
 ><p>Nosso grupo utilizou o METABASE como ferramenta de criação dos gráficos retirados das querys feitas dentro do mySQL para referenciar o que utilizados no projeto.</p>
 ><p>Abaixo os links de contato dos participantes.</p>
