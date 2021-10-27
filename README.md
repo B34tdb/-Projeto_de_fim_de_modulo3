@@ -4,7 +4,7 @@
 
 
 <h3>Equipe : ↓</h3><b />
-- <a href = ""> Daniel Rodrigues Duarte - </a><b />
+- <a href = ""> Daniel Rodrigues Duarte</a><b />
 - <a href = "https://github.com/elderschmoeller"> Elder dos Santos Schmoeller</a><b />
 - <a href = "https://github.com/B34tdb"> Hyan Araujo Almeida de Oliveira</a><b />
 - <a href = "https://github.com/marimachadox"> Mariana Machado</a><b />
