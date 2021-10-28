@@ -42,5 +42,4 @@
 ><img src="./img/tabela_metabase.png" height="375px" width="395px">
 >
 ><p>Nosso grupo utilizou o METABASE como ferramenta de criação dos gráficos retirados das querys feitas dentro do mySQL para referenciar o que utilizados no projeto.</p>
-><p>Abaixo os links de contato dos participantes.</p>
 ></div>
