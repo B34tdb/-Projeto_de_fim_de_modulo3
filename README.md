@@ -18,7 +18,7 @@
 # 🐉 Game of Thrones Analytics 🐉 - Módulo 3 Resilia Educação
 
 </div>
-<div align="left"><a href="https://www.resilia.com.br"></a>Resilia</div>
+<div align="left"><a href="https://www.resilia.com.br">Resilia Educação</a></div>
 
 
 <div align="center">
